@@ -7,7 +7,7 @@ Go to section
 ## My Information
 
 #### Name: *Yuyang Tian*
-#### Currently: *Second year undergrad*
+#### Year: *Second year undergrad*
 #### Major: Computer Science & Mathematics double major
 
 My favorite quote from our CSE department:
